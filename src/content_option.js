@@ -1,15 +1,14 @@
-const logotext = "JOHN";
+const logotext = "Xojiakbar";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Xojiakbar Mexmonov",
+    description: "I am Khojiakbar Mexmonov, a Frontend Developer specializing in React.js and Next.js.",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Xojiakbar Mexmonov",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
@@ -20,62 +19,44 @@ const dataabout = {
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+        jobtitle: "Frontend Developer",
+        where: "",
+        date: "2024-2025",
+    }
 ];
 
 const skills = [{
-        name: "Python",
+        name: " HTML",
+        value: 98,
+    },
+    {
+        name: "CSS",
         value: 90,
     },
     {
-        name: "Djano",
-        value: 85,
-    },
-    {
         name: "Javascript",
-        value: 80,
+        value: 95,
     },
     {
         name: "React",
-        value: 60,
+        value: 92,
     },
     {
-        name: "Jquery",
+        name: "Next.js",
         value: 85,
     },
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
+        title: "website creation",
+        description: "Create websites in HTML, CSS, JavaScript, React, NextJS",
+    }
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://picsum.photos/400/500/?grayscale",
+        description: "This website is for teachers to manage a list of students. On the website, studentscan be added, deleted, and updated.",
+        link: "https://6-oy-imtihon-rho.vercel.app/",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
@@ -85,7 +66,7 @@ const dataportfolio = [{
     {
         img: "https://picsum.photos/400/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        link: "",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
@@ -95,7 +76,7 @@ const dataportfolio = [{
     {
         img: "https://picsum.photos/400/300/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        link: "https://cinema-three-eta.vercel.app/",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
@@ -136,8 +117,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "xojixoji422gmail.com",
+    YOUR_FONE: "(33)077-09-60",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -147,10 +128,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/1Mixmanovx2009",
     facebook: "https://facebook.com",
     linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    twitter: "https://x.com/xojixoji282850",
 };
 export {
     meta,
